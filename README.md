@@ -22,7 +22,7 @@ git commit -m ":alien: bastnedv ``proof`` versión 1.0.0 (#1)"
 --
 - `EMOJI`: Emoji de gitmoji.
 - `New message`: New Engagement Message.
-- ```Version```: Version of your projecte.
+- `Version 0.0.0`: Version of your projecte.
 - `(#0)`: The number of the branch of your project.
 
 ```
