@@ -1,4 +1,4 @@
-# Git CommitDev
+# 👽 Git CommitDev 
 
 ```
 git branch 
@@ -10,7 +10,7 @@ git add .
 ```
 git commit -m ":alien: bastndev ``proof`` versión 4.0.3 (#5)"
 ```
-**github action 👽**
+**Emoji For Commits**
     <!----> 
   <div align="center"> 
     <a href="https://gitmoji.dev/" target="_blank" ><img src="/assets/img/gitmoji.png" width="250px" alt="" > </a>
@@ -18,11 +18,10 @@ git commit -m ":alien: bastndev ``proof`` versión 4.0.3 (#5)"
     <a href="https://gitmoji.avaldigitallabs.com/"target="_blank" ><img src="/assets/img/gitmoji adl.png" width="250px"alt=""></a>
   </div>
 
-  **Tutorial Optional**
-  --
-    <!--Mockup-->  
+  **Optional Tutorial**
+--
   <div align="center"> 
-    <img src="https://res.cloudinary.com/e4datascience/image/upload/f_auto/g_auto/q_auto/gitmoji-hook.gif" width="300px" alt="">
+    <img src="https://res.cloudinary.com/e4datascience/image/upload/f_auto/g_auto/q_auto/gitmoji-hook.gif" width="600px" alt="">
   </div>
   
 
