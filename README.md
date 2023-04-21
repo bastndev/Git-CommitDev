@@ -13,9 +13,9 @@ git commit -m ":alien: bastndev ``proof`` versión 4.0.3 (#5)"
 **github action**
     <!----> 
   <div align="center"> 
-    <a href="https://gitmoji.dev/" target="_blank" ><img src="/assets/img/gitmoji.png" width="500px" alt="" > </a>
-    <a href="https://babakks.github.io/article/2020/07/03/emojis-in-git-commit-messages.html"target="_blank" ><img src="/assets/img/Emojis for Better.png"width="500px" alt=""></a>
-    <a href="https://gitmoji.avaldigitallabs.com/"target="_blank" ><img src="/assets/img/gitmoji adl.png" width="500px"alt=""></a>
+    <a href="https://gitmoji.dev/" target="_blank" ><img src="/assets/img/gitmoji.png" width="200px" alt="" > </a>
+    <a href="https://babakks.github.io/article/2020/07/03/emojis-in-git-commit-messages.html"target="_blank" ><img src="/assets/img/Emojis for Better.png"width="200px" alt=""></a>
+    <a href="https://gitmoji.avaldigitallabs.com/"target="_blank" ><img src="/assets/img/gitmoji adl.png" width="200px"alt=""></a>
   </div>
 
   **Tutorial Optional**
@@ -24,6 +24,8 @@ git commit -m ":alien: bastndev ``proof`` versión 4.0.3 (#5)"
     <img src="https://res.cloudinary.com/e4datascience/image/upload/f_auto/g_auto/q_auto/gitmoji-hook.gif" alt="">
   </div>
   
+  
+   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <!--Social Media and Sponsors-->  
   <p align="center">
   <a href="https://twitter.com/bastndev">
