@@ -21,7 +21,7 @@ git commit -m ":alien: bastnedv ``proof`` versión 1.0.0 (#1)"
 **Optional Tutorial**
 --
 ```
-git commit -m ":EMOJI: new message ``proof`` versión 0.0.0 (#0)"
+git commit -m ":EMOJI: new message ``versión 0.0.0`` (#0)"
 ```
   <div align="center"> 
     <img src="https://res.cloudinary.com/e4datascience/image/upload/f_auto/g_auto/q_auto/gitmoji-hook.gif" width="800px" alt="">
