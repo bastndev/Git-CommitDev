@@ -18,7 +18,7 @@ git commit -m ":alien: bastnedv ``proof`` versión 1.0.0 (#1)"
     <a href="https://gitmoji.avaldigitallabs.com/"target="_blank" ><img src="/assets/img/gitmoji adl.png" width="265px"alt=""></a>
   </div>
 
-**Optional Tutorial** [bastndev](https://tiktok/bastndev)
+**Optional Tutorial** [bastndev](https://www.tiktok.com/@bastndev/video/7224548281882381574)
 --
 - `EMOJI`: Emoji of [Gitmoji](https://gitmoji.dev/).
 - `New message`: New Engagement Message.
