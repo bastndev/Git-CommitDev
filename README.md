@@ -43,4 +43,4 @@ git commit -m ":EMOJI: New message ``versión 0.0.0`` (#0)"
   <a href="https://github.com/sponsors/bastndev">
     <img src="https://user-images.githubusercontent.com/7629661/87821425-1f956c00-c870-11ea-9871-a76f99739501.png" width="156" alt="Sponsor carloscuesta on GitHub" title="Sponsor carloscuesta on GitHub"  target="_blank">
   </a>
-</p>
+</p> 
