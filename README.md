@@ -18,8 +18,13 @@ git commit -m ":alien: bastnedv ``proof`` versión 1.0.0 (#1)"
     <a href="https://gitmoji.avaldigitallabs.com/"target="_blank" ><img src="/assets/img/gitmoji adl.png" width="265px"alt=""></a>
   </div>
 
-**Optional Tutorial**
+**Optional Tutorial** [Gitmoji](https://tiktok/bastndev)
 --
+- `EMOJI`: Emoji de gitmoji.
+- `New message`: New Engagement Message.
+- `Version`: Version of your projecte.
+- `#0`: The number of the branch of your project.
+
 ```
 git commit -m ":EMOJI: new message ``versión 0.0.0`` (#0)"
 ```
