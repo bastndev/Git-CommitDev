@@ -13,9 +13,9 @@ git commit -m ":alien: bastnedv ``proof`` versión 1.0.0 (#1)"
 **Emoji For Commits 🎭**
     <!----> 
   <div align="center"> 
-    <a href="https://gitmoji.dev/" target="_blank" ><img src="/assets/img/gitmoji.png" width="260px" alt="" > </a>
-    <a href="https://babakks.github.io/article/2020/07/03/emojis-in-git-commit-messages.html"target="_blank" ><img src="/assets/img/Emojis for Better.png"width="260px" alt=""></a>
-    <a href="https://gitmoji.avaldigitallabs.com/"target="_blank" ><img src="/assets/img/gitmoji adl.png" width="260px"alt=""></a>
+    <a href="https://gitmoji.dev/" target="_blank" ><img src="/assets/img/gitmoji.png" width="280px" alt="" > </a>
+    <a href="https://babakks.github.io/article/2020/07/03/emojis-in-git-commit-messages.html"target="_blank" ><img src="/assets/img/Emojis for Better.png"width="280px" alt=""></a>
+    <a href="https://gitmoji.avaldigitallabs.com/"target="_blank" ><img src="/assets/img/gitmoji adl.png" width="280px"alt=""></a>
   </div>
 
 **Optional Tutorial**
