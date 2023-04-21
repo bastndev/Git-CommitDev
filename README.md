@@ -8,7 +8,7 @@ git branch
 git add .
 ```
 ```
-git commit -m ":EMOJI: new message ``proof`` versión 4.0.3 (#1)"
+git commit -m ":alien: bastnedv ``proof`` versión 1.0.0 (#1)"
 ```
 **Emoji For Commits**
     <!----> 
@@ -18,8 +18,11 @@ git commit -m ":EMOJI: new message ``proof`` versión 4.0.3 (#1)"
     <a href="https://gitmoji.avaldigitallabs.com/"target="_blank" ><img src="/assets/img/gitmoji adl.png" width="260px"alt=""></a>
   </div>
 
-  **Optional Tutorial**
+  **********************************Optional Tutorial**
 --
+```
+git commit -m ":EMOJI: new message ``proof`` versión 0.0.0 (#0)"
+```
   <div align="center"> 
     <img src="https://res.cloudinary.com/e4datascience/image/upload/f_auto/g_auto/q_auto/gitmoji-hook.gif" width="800px" alt="">
   </div>
