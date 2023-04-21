@@ -10,7 +10,7 @@ git add .
 ```
 git commit -m ":alien: bastnedv ``proof`` versión 1.0.0 (#1)"
 ```
-**Emoji For Commits**
+**Emoji For Commits 🎭**
     <!----> 
   <div align="center"> 
     <a href="https://gitmoji.dev/" target="_blank" ><img src="/assets/img/gitmoji.png" width="260px" alt="" > </a>
@@ -18,7 +18,7 @@ git commit -m ":alien: bastnedv ``proof`` versión 1.0.0 (#1)"
     <a href="https://gitmoji.avaldigitallabs.com/"target="_blank" ><img src="/assets/img/gitmoji adl.png" width="260px"alt=""></a>
   </div>
 
-  **********************************Optional Tutorial**
+**Optional Tutorial**
 --
 ```
 git commit -m ":EMOJI: new message ``proof`` versión 0.0.0 (#0)"
